@@ -1,3 +1,8 @@
+> [!IMPORTANT]
+> Project has moved to https://github.com/autodesk-forge/forge-hubs-browser-dotnet.
+
+---
+
 # forge-hubs-browser-dotnet
 
 ![platforms](https://img.shields.io/badge/platform-windows%20%7C%20osx%20%7C%20linux-lightgray.svg)
